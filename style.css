@@ -1,0 +1,9 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(to bottom, skyblue, #45b3e0);
+  color: white;
+  height: 100vh;
+  margin: 7;
+  display: grid;
+  place-items: center;
+}
